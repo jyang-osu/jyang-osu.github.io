@@ -1,3 +1,8 @@
+---
+layout: default
+title: Dr. Jia Yang - Oklahoma State University
+---
+
 # Dr. Jia Yang
 ## Assistant Professor | Academic Researcher
 **Oklahoma State University** *Department of Natural Resource Ecology and Management (NREM)*
